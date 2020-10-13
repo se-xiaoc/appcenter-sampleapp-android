@@ -1,0 +1,1 @@
+appcenter test run espresso --app "dongweiqiu-iesolutions.jp/android2" --devices 2d324191 --app-path app-debug-androidTest.apk --test-series "master" --locale "en_US" --build-dir D:\Azure\Azure-Monitor\appcenter-sampleapp-android\app\build\outputs\apk\androidTest\debug
